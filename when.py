@@ -7,4 +7,4 @@ print (logoname)
 if logoname=='Glyco365':
  print ('登陆成功')
 else :
- raise NameError ('登录失败!')
+ raise NameError ('登录失败啦啦啦!')
